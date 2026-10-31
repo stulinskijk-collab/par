@@ -89,8 +89,8 @@ window.SITE = {
   "poke": "Пш-ш-ш! ♨",
   "ink": "#22150D",
   "confetti": [
-    "#F49D4A",
-    "#FFF0D4",
+    "#F08A3C",
+    "#F5E6CF",
     "#BFD8C4",
     "#F2DCB8",
     "#FFFAF2"
